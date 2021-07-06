@@ -5,4 +5,8 @@ Find it here:
 
 https://bensizelove.github.io/geoguessr/
 
+Original Game:
+
+https://www.geoguessr.com/
+
 Enjoy!
